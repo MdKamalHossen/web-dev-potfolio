@@ -137,3 +137,77 @@ nav{
     font-family: "Open Sans"sans-serif;
     
  }
+ /* card making  */
+ .whatido{
+    margin-top: 50px;
+ }
+ .what-Content{
+    text-align: center;
+    margin-bottom: 20px;
+ }
+ .what{
+    font-size: 35px;
+ }
+ .what-paragraph{
+    font-size: 20px;
+    opacity: 0.7;
+    margin: 10px 200px;
+ }
+ .container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+ }
+ .card{
+    width: 267px;
+    height: 377px;
+    margin: 10px;
+    box-shadow: 10px 10px 5px gainsboro;
+   
+ }
+ .card-images{
+    margin:20px 20px 10px 20px;
+ }
+ .card-title{
+    font-family: sans-serif;
+    font-weight: bold;
+ }
+.card-content{
+    text-align: justify;
+    padding: 0 10px;
+    line-height: 20px;
+}
+/* summer container  */
+.education-header{
+    margin-top: 100px;
+    margin-bottom: 50px;
+    text-align: center;
+}
+.container-main{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 1119px;
+    margin: 0 auto;
+}
+.education-info{
+    margin-right: 50px;
+}
+.btn-primary1{
+   
+    background-color: #FD6E0A;
+    margin: 0 auto;
+    padding: 10px 30px;
+    border: none;
+    font-size: 22px;
+    border-radius: 5px;
+    color: aliceblue;
+    
+}
+.btn-sys{
+    display: flex;
+    margin-top: 50px;
+    justify-content: center;
+    align-items: center;
+}
